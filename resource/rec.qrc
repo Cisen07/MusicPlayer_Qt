@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>bigdot.png</file>
+        <file>cross_15.977464788732px_1153732_easyicon_smaller.net-恢复的.png</file>
+        <file>cross_31.954929577465px_1153732_easyicon.net.png</file>
+        <file>dot.png</file>
+        <file>valume.png</file>
+        <file>last.png</file>
+        <file>next.png</file>
+        <file>stop.png</file>
+        <file>M.png</file>
+        <file>loop.png</file>
+        <file>currentItemInLoop.png</file>
+        <file>random.png</file>
+        <file>sequenti.png</file>
+        <file>title_string.png</file>
+        <file>title_string_2.png</file>
+        <file>close_1.png</file>
+        <file>close_2.png</file>
+        <file>p1197456005.webp.jpg</file>
+        <file>tray.png</file>
+        <file>hide.png</file>
+        <file>hide_ho.png</file>
+        <file>title.png</file>
+        <file>title_ho.png</file>
+        <file>play.png</file>
+        <file>play_ho.png</file>
+        <file>pause.png</file>
+        <file>last_ho.png</file>
+        <file>stop_ho.png</file>
+        <file>next_ho.png</file>
+        <file>pause_ho.png</file>
+    </qresource>
+</RCC>
